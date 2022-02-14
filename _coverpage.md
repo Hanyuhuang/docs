@@ -1,12 +1,12 @@
-![logo](_media/icon.svg)
+![logo](./imgs/logo.svg)
 
-# 算法
+# hanyuhuang
 
-> A magical documentation site generator.
+> 剑指Offer、LeetCode和常见算法题
 
 * Simple and lightweight (~12kb gzipped)
 * Multiple themes
 * Not build static html files
 
-[GitHub](https://github.com/hanyuhuang/)
-[Get Started](README.md)
+[开始阅读](README.md)
+
